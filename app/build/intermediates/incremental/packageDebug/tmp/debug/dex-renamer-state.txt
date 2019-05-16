@@ -1,0 +1,7 @@
+#Thu May 16 21:13:43 CEST 2019
+base.0=C\:\\Users\\Michal\\Desktop\\Lab android\\Lab4\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\Michal\\Desktop\\Lab android\\Lab4\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
